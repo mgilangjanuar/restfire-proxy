@@ -1,0 +1,7 @@
+{
+  "name": "restfire-proxy",
+  "description": "This proxy is used for RestFire Studio to bypass CORS for the API requests.",
+  "repository": "https://github.com/mgilangjanuar/restfire-proxy.git",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["node", "express", "static"]
+}
