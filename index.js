@@ -67,4 +67,4 @@ app.post('/proxy', async (req, res) => {
   }
 })
 
-app.listen(4002, () => console.log('started...'))
+app.listen(process.env.PORT || 3196, () => console.log('started...'))
